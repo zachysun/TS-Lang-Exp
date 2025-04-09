@@ -1,0 +1,14 @@
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTh1_linear_pnums10.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTh1_linear_pnums20.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTh1_linear_pnums50.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTh1_linear_pnums150.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTh1_linear_pnums250.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTh1_linear_pnums500.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTh1_linear_pnums600.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTm1_linear_pnums10.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTm1_linear_pnums20.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTm1_linear_pnums50.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTm1_linear_pnums150.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTm1_linear_pnums250.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTm1_linear_pnums500.sh
+bash ./scripts/LLM4Time/Ablation_pnums/LLM4Time_ETTm1_linear_pnums600.sh

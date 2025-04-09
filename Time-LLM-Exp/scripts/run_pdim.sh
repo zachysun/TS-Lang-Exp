@@ -1,0 +1,12 @@
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTh1_linear_pdim64.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTh1_linear_pdim128.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTh1_linear_pdim256.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTh1_linear_pdim512.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTh1_linear_pdim16.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTh1_linear_pdim32.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTm1_linear_pdim64.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTm1_linear_pdim128.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTm1_linear_pdim256.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTm1_linear_pdim512.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTm1_linear_pdim16.sh
+bash ./scripts/LLM4Time/Ablation_pdims/LLM4Time_ETTm1_linear_pdim32.sh

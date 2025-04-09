@@ -1,0 +1,2 @@
+Time series forecasting leverages historical data patterns to predict future values, often using features such as trends, seasonality, and cyclic behavior.
+Accurate feature selection is crucial for improving model performance and capturing the underlying dynamics of the data.
