@@ -1,6 +1,6 @@
 # TS-Language-Exp
 
-Code to paper “**Exploring the Effectiveness and Interpretability of Texts in LLM-based Time Series Models**”.
+Code to paper “**[Exploring the Effectiveness and Interpretability of Texts in LLM-based Time Series Models](https://arxiv.org/abs/2504.08808)**”.
 
 Please refer to `./Time-LLM-Exp` and `./CALF-Exp` for detailed usage.
 
